@@ -1,4 +1,4 @@
-def reverse_each_word (argument)
-string=[]
-reversed_string=[]
+
+def reverse_each_word (arg)
+string_array=%w[]
 end
